@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+clients_secret.json
+config.ini
